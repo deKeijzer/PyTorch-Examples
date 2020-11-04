@@ -7,7 +7,7 @@ An overview of PyTorch tutorials, implementations and research including code. T
 
 ## General
 These introductory tutorials are highly recommended to get a general understanding of training neural networks in PyTorch.
-- The notebooks within this repository (Labelled 1.1 1.2... 2.1 ... )
+- The notebooks within this repository (Labelled 1.1, 1.2, ..., 2.1, ...)
 - Documented tutorials from PyTorch  [link](https://pytorch.org/tutorials/).  
 - Examples from PyTorch on GitHub [link](https://github.com/pytorch/examples).  
 - Plain code examples for PyTorch on GitHub: [link](https://github.com/yunjey/pytorch-tutorial).  
