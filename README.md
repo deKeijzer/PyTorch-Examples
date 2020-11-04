@@ -61,7 +61,7 @@ Examples that show how the input and output of a neural network are related and 
 
 
 ## TODO: 
-
+- Short summary per '-'? 
 - CPU, RAM, GPU, VRAM bottlenecks / optimization
 - Hyperparameter tuning
 - Non linear scaling?
