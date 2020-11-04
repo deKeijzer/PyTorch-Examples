@@ -1,8 +1,9 @@
-Partly inspired by tutorials and documentation from PyTorch.org. Adapted to students of the minor Applied Data Science at The Hague University of Applied Sciences.
+This repository contains PyTorch examples. The notebooks within this repository are partly inspired by tutorials and documentation from PyTorch.org.
 
 
-# PyTorch code examples
-An overview of PyTorch tutorials, implementations and research including code. The difficulty ranges from simple to advanced.
+
+# PyTorch examples
+An overview of external PyTorch tutorials, implementations and research including code. The difficulty ranges from simple to advanced.
 
 ## General
 The documented tutorials on PyTorch.org are highly recommended to get a general understanding of training neural networks in PyTorch.
@@ -62,6 +63,6 @@ Examples that show how the input and output of a neural network are related and 
 
 - CPU, RAM, GPU, VRAM bottlenecks / optimization
 - Hyperparameter tuning
-- Non linear scaling
-- Validation methods
-- TimeSeries: Autoregressie voor onderbouwen time windows?
+- Non linear scaling?
+- Validation methods?
+- TimeSeries: Autoregression?
