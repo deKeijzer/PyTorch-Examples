@@ -7,7 +7,7 @@ An overview of PyTorch tutorials, implementations and research including code. T
 
 ## General
 These introductory tutorials are highly recommended to get a general understanding of training neural networks in PyTorch.
-- The notebooks within this repository (Labelled 1.1 1.2... 2.1 ... )
+- The notebooks within this repository (Labelled 1.1, 1.2, ..., 2.1, ...)
 - Documented tutorials from PyTorch  [link](https://pytorch.org/tutorials/).  
 - Examples from PyTorch on GitHub [link](https://github.com/pytorch/examples).  
 - Plain code examples for PyTorch on GitHub: [link](https://github.com/yunjey/pytorch-tutorial).  
@@ -42,6 +42,16 @@ Examples that show how the input and output of a neural network are related and 
 - Webbased tool for CNN visualisations [link](https://github.com/FrancescoSaverioZuppichini/mirror).
 
 
+# Ray
+Ray allows for the creation of distributed applications. It is used in e.g. parallel data processing and hyperparameter tuning. 
+
+- Simple Hyperparameter tuning using Ray tune [link](https://pytorch.org/tutorials/beginner/hyperparameter_tuning_tutorial.html)
+- Ray tune documentation [link](https://docs.ray.io/en/master/tune/index.html)
+- Introduction to Ray [link](https://docs.ray.io/en/master/auto_examples/tips-for-first-time.html)
+- Hyperparameter tuning [link](https://docs.ray.io/en/master/auto_examples/plot_hyperparameter.html)
+- Distributed training [link](https://docs.ray.io/en/master/auto_examples/plot_parameter_server.html)
+
+
 ## Other
 - Neural differential equations [link](https://github.com/DiffEqML/torchdyn)
 
@@ -61,7 +71,7 @@ Examples that show how the input and output of a neural network are related and 
 
 
 ## TODO: 
-
+- Short summary per '-'? 
 - CPU, RAM, GPU, VRAM bottlenecks / optimization
 - Hyperparameter tuning
 - Non linear scaling?
